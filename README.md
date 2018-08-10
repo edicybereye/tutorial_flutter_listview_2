@@ -1,6 +1,8 @@
-# tutorial_list_view_session_2
+# Tutorial Listview Session 2 on Flutter
 
-A new Flutter project.
+Understanding ListView Session 2 on Flutter, Card and Parsing Data
+
+![img capture](https://cybereye-community.com/img/listView.png)
 
 ## Getting Started
 
